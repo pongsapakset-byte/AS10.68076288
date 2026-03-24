@@ -76,9 +76,9 @@ nav ul li a.button:hover {
 }
 
 /* รูป Banner */
-.carousel-image-1 { background: url('images/pic14.jpg') center/cover no-repeat; }
-.carousel-image-2 { background: url('images/pic13.jpg') center/cover no-repeat; }
-.carousel-image-3 { background: url('images/pic10.jpg') center/cover no-repeat; }
+.carousel-image-1 { background: url('images/a1.jpg') center/cover no-repeat; }
+.carousel-image-2 { background: url('images/a2.jpg') center/cover no-repeat; }
+.carousel-image-3 { background: url('images/a3.jpg') center/cover no-repeat; }
 
 .carousel-caption h1 {
     font-size: 50px !important;
